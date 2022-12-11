@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.bgimg{
+    width: 100%;
+    background: url('../Project2/image/FB_IMG_1648221500028.jpg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+   
+}
+.title{
+    color: white ;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 150px;
+    left: 70px;
+}
+.title span{
+    color: greenyellow;
+}
+
+.pra{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+    position: relative;
+    top: 180px;
+    left: 70px;
+}
+.pra button{
+    margin: 20px;
+    padding: 15px;
+    border-radius: 20px;
+    border-style: none;
+    background:linear-gradient(45deg,#d40f6e,rgb(252,17,75));
+}
+.pra button a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+.pra button a:hover{
+    color: aqua;
+}
+.herose{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    gap: 8rem;
+    margin-bottom: 18rem;
+    margin-top: 30px;
+}
+img {
+    padding: 30px;
+    width:300px ;
+    border: 1px solid;
+    border-radius: 50px;
+    border-style: none;
+    position: relative;
+    left: 300px;
+}
+
+.titles{
+    padding: 30px;
+    width:300px ;
+    position: relative;
+    right: 10px;
+    top: 25px;
+}
+.titles h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding: 10px;
+}
+.praa{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.praa button{
+    margin: 10px;
+    padding: 15px;
+    border-radius: 20px;
+    border-style: none;
+    background:linear-gradient(45deg,#d40f6e,rgb(252,17,75));
+}
+.praa button a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+.praa button a:hover{
+    color: aqua;
+}
+.heroses{
+  
+    gap: 8rem;
+    margin-bottom: 18rem;
+    margin-top: 30px;
+}
+.heroses img {
+   
+    padding: 30px;
+    width:200px ;
+    border: 1px solid;
+    border-radius: 50px;
+    border-style: none;
+    position: relative;
+    left: -350px;
+    top: -300px;
+}
+
+.titless{
+    padding: 30px;
+    width:300px ;
+    position: relative;
+    right: -350px;
+    top: -300px;
+    
+}
+.titless h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding: 10px;
+}
+.praaa{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.praaa button{
+    margin: 10px;
+    padding: 15px;
+    border-radius: 20px;
+    border-style: none;
+    background:linear-gradient(45deg,#d40f6e,rgb(252,17,75));
+}
+.praaa button a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+.praaa button a:hover{
+    color: aqua;
+}
+.dim h1{
+    text-align: center;
+    font-size: 35px;
+    font-family:Arial, Helvetica, sans-serif ;
+    position: relative;
+    top: -480px;
+}
+.dim p{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif ;
+    position: relative;
+    top: -450px;
+}
+.dis{
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    position: relative;
+    top: -400px;
+}
+.card{
+    border: 1px solid;
+    height: 50vh;
+    width: 500px;
+    border-radius: 20px;
+    background-color: #d40f6e36;
+    opacity: 80%;
+    border-style: none;
+}
+.hed{
+    text-align: center;
+    margin: 80px;
+}
+.hed h4{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    font-weight: bold;
+}
+.reg img{
+    position: relative;
+    left: 100px;
+    top: -370px;
+}
+.footerr p{
+       font-family: Arial, Helvetica, sans-serif;
+       color: white;
+}
+footer{
+    background:linear-gradient(45deg,#d40f6e,rgb(125, 112, 115));
+}
+footer h1{
+    color: greenyellow;
+}
